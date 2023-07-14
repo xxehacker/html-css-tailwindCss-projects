@@ -1,2 +1,2 @@
-# html-css-tailwindCss-projects
+# 50 Projects In 50 Days - HTML,CSS, TAILWIND CSS & JAVASCRIPT 
 50+ web projects using HTML, CSS, TAILWIND CSS &amp; JAVASCRIPT
